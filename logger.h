@@ -1,6 +1,6 @@
 #ifndef LOGGER_H
 #define LOGGER_H
-
+#include <iostream>
 #include <string>
 
 void addReading(const std::string& label, double value,
